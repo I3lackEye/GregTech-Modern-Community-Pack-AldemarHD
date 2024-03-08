@@ -966,11 +966,6 @@ hash = "7016d2bdea984fe8109fd999e2e11d1529d04c36a564db831855e0dd1fc6cee1"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "6fae8c1ae452f1c54248e73b743ad9c036419f4fefc31e92fb76446f02c72aaa"
-metafile = true
-
-[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "318235772b628c653586f54c27ef1a9ac846dbf3d6a72eb77c23d930e46a983c"
 metafile = true
