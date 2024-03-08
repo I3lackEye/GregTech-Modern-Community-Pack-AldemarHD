@@ -936,6 +936,11 @@ hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "5d7a31aa81c640cb1456f22fb3a22a0b7737680c83c4a655ccdaf813e98e20ce"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "fc1540d695355081fa6c81b97d10efba751302bfbd2fb30f742551b997ac1a8f"
 metafile = true
