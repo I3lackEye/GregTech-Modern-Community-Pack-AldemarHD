@@ -776,11 +776,6 @@ hash = "6e3abb88c7b5bc23d371ada2a6078ac8d209355064b1d07badd27967630338cf"
 metafile = true
 
 [[files]]
-file = "mods/embeddiumplus.pw.toml"
-hash = "4ded396bc27dba88918781fe12d229f4b772ecae377f706b2451751bf66c145c"
-metafile = true
-
-[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "81421c0deada48cf87c48c6dfa27cb0a14c9cea6d700a740ee24aaed7f06cc8e"
 metafile = true
