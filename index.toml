@@ -721,6 +721,11 @@ hash = "f1dd98ba8f2f3812a881fb7c7c06d27e6d45eaee31499b83f90f9de2e76c1d50"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "91b7300067da73bfd730e4da3aa5cef9d73b7fb0c7bbfacad9b10dd28f9d4b72"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "cacc272fbc39792570ea3e72ad8856cb0b923f69ecea2beb6b1560f00411d178"
 metafile = true
@@ -938,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "5d7a31aa81c640cb1456f22fb3a22a0b7737680c83c4a655ccdaf813e98e20ce"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "33e24e7a4d30979259731196cfa1b326542ccee07ae329180eea218dcd0c55c2"
 metafile = true
 
 [[files]]
