@@ -189,6 +189,10 @@ file = "config/inventoryessentials-common.toml"
 hash = "2696133bf8a18d3811868bbbc8bba93a3d79dda3aadeaa81ed78984b0538833b"
 
 [[files]]
+file = "config/inventoryprofilesnext/ae2.json"
+hash = "4ff0f64eb3a94adcb3c0935b6fe57ce9e7a474625cb1a53ef75beeb2b898c686"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
