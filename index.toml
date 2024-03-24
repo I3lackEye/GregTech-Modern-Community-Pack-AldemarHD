@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "91b7300067da73bfd730e4da3aa5cef9d73b7fb0c7bbfacad9b10dd28f9d4b72"
+hash = "3ead5765f5991ad425623be287b1c10207ab22f1f5ca674180379c708c744009"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "d8a4f9ca8e2b6f35f4c6cff7bc0b80462039e1b097a9d0415c23f928aa1e0fe4"
+hash = "f5aa06bc23007aa709580322df367a6097ff5fdbfa202f403a640cdc489102b1"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "cee31ab80f287855dc0ec3c7e2e3879f2f4265b05c38066aca9f3f419cf2e278"
+hash = "079fd65808c8ad682c04ca1390592109e728f6316bbb52a21fefa3ab040cc067"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "9b5a6ac3393657b99df90d49aa61c3e5afad176abf370c30c10e289c34e9ce08"
+hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "433236e219589f34337ad72448553be1659ecb319fc428ad21de689295eaf911"
+hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f728850654a389c05e2c907124322d40067a666208da3892e261da079442332b"
+hash = "0d459b4bc289e78f21cae2be883b9a442d61c34a17f87db90b0804d00456308b"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a68dba1c0402252605702f4665da9b8c9604d838576de708d65d2cd2869b263a"
+hash = "7b6c59b1a6411b599cc95793bc7a9ef2fda525ef30d185afe08c6fee99031920"
 metafile = true
 
 [[files]]
